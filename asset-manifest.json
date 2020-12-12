@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Household-by-counties/static/css/main.e38d8cb2.chunk.css",
+    "main.js": "/Household-by-counties/static/js/main.dfaa8867.chunk.js",
+    "main.js.map": "/Household-by-counties/static/js/main.dfaa8867.chunk.js.map",
+    "runtime-main.js": "/Household-by-counties/static/js/runtime-main.e1ab3165.js",
+    "runtime-main.js.map": "/Household-by-counties/static/js/runtime-main.e1ab3165.js.map",
+    "static/css/2.95f25948.chunk.css": "/Household-by-counties/static/css/2.95f25948.chunk.css",
+    "static/js/2.2ac6e0b1.chunk.js": "/Household-by-counties/static/js/2.2ac6e0b1.chunk.js",
+    "static/js/2.2ac6e0b1.chunk.js.map": "/Household-by-counties/static/js/2.2ac6e0b1.chunk.js.map",
+    "static/js/3.a1e6eef3.chunk.js": "/Household-by-counties/static/js/3.a1e6eef3.chunk.js",
+    "static/js/3.a1e6eef3.chunk.js.map": "/Household-by-counties/static/js/3.a1e6eef3.chunk.js.map",
+    "index.html": "/Household-by-counties/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/Household-by-counties/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.e38d8cb2.chunk.css.map": "/Household-by-counties/static/css/main.e38d8cb2.chunk.css.map",
+    "static/js/2.2ac6e0b1.chunk.js.LICENSE.txt": "/Household-by-counties/static/js/2.2ac6e0b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1ab3165.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.2ac6e0b1.chunk.js",
+    "static/css/main.e38d8cb2.chunk.css",
+    "static/js/main.dfaa8867.chunk.js"
+  ]
+}
