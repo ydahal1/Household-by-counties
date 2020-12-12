@@ -1,0 +1,20 @@
+.search-form {
+  background: lightgrey;
+  padding: 10px;
+  padding-left: 25px;
+}
+
+.boldtext {
+  font-weight: 800;
+  font-size: 22px;
+}
+
+.boldertext {
+  font-weight: 800;
+  font-size: 18px;
+}
+
+.btn-primary {
+  background: black !important;
+  border: 1px solid black !important;
+}
